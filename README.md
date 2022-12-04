@@ -37,7 +37,7 @@
 <div align="center">
   
 #### B站空间
-  <a href="https://space.bilibili.com/372204786"><img src="https://stats.justsong.cn/api/bilibili/?id=381745966"/></a>
+  <a href="https://space.bilibili.com/381745966"><img src="https://stats.justsong.cn/api/bilibili/?id=381745966"/></a>
 </div>
 </td> 
 </table>

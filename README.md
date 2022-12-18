@@ -1,13 +1,13 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://lwtxiaoyao.top/">
+  <a href="https://blog.lwtxiaoyao.top/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今日事，今日毕！">
   </a>
 </h1>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://lwtxiaoyao.top/"><img src="https://img.shields.io/badge/website-个人博客-blue?style=flat&logo=hexo"></a>&emsp;
+  <a href="https://blog.lwtxiaoyao.top/"><img src="https://img.shields.io/badge/website-个人博客-blue?style=flat&logo=hexo"></a>&emsp;
   <a href="https://space.bilibili.com/381745966"><img src="https://img.shields.io/badge/B站空间-bilibili-ff69b4?style=flat&logo=bilibili"></a>&emsp;
 </div>
 <br>

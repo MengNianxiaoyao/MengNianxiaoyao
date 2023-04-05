@@ -12,6 +12,8 @@
 </div>
 <br>
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/MengNianxiaoyao/MengNianxiaoyao/assets/github-contribution-grid-snake.svg" /></div>
+
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />

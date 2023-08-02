@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.lwtxiaoyao.top/">
+  <a href="https://blog.mnxy.eu.org/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今日事，今日毕！">
   </a>
 </h1>
@@ -25,13 +25,13 @@
   
 <td valign="top" width="50%">
   
-#### <a href="https://lwtxiaoyao.top/" target="_blank">博客文章</a>
+#### <a href="https://blog.mnxy.eu./" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://www.lwtxiaoyao.top/posts/102892f2.html' target='_blank'>博客美化：twikoo 评论系统以及双评论</a>
-* <a href='https://www.lwtxiaoyao.top/posts/3798f66d.html' target='_blank'>博客美化：关于 Butterfly 的导航栏的一些教程</a>
-* <a href='https://www.lwtxiaoyao.top/posts/249468c2.html' target='_blank'>从零开发博客网站（一）</a>
-* <a href='https://www.lwtxiaoyao.top/posts/1482841a.html' target='_blank'>从零开发博客网站（二）</a>
+* <a href='https://blog.mnxy.eu.org/posts/102892f2.html' target='_blank'>博客美化：twikoo 评论系统以及双评论</a>
+* <a href='https://blog.mnxy.eu.org/posts/3798f66d.html' target='_blank'>博客美化：关于 Butterfly 的导航栏的一些教程</a>
+* <a href='https://blog.mnxy.eu./posts/249468c2.html' target='_blank'>从零开发博客网站（一）</a>
+* <a href='https://blog.mnxy.eu.org/posts/1482841a.html' target='_blank'>从零开发博客网站（二）</a>
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

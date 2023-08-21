@@ -18,8 +18,6 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         id: snake-gif
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           github_user_name: MengNianxiaoyao
           # gif_out_path: ./assets/github-contribution-grid-snake.gif
@@ -27,6 +25,8 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake.gif
             assets/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9

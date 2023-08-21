@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake-gif
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
@@ -30,3 +30,6 @@ jobs:
         with:
           branch: main
           message: 'Generate Contribution Snake'
+          author_name: github-actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          add: '.'

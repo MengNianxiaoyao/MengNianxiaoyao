@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/MengNianxiaoyao/MengNianxiaoyao/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.staticaly.com/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-contribution-grid-snake.svg" /></div>
 
 <!-- GitHub数据统计 -->
 <div align="center">

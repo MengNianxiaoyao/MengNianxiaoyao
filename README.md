@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua3' target='_blank'>【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程</a> - Sat, 09 Sep 2023 14:57:34 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua4' target='_blank'>【个人博客网站】博客美化（四）：加入看板娘</a> - Sat, 09 Sep 2023 14:57:34 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua5' target='_blank'>【个人博客网站】博客美化（五）：评论系统以及通知邮件</a> - Sat, 09 Sep 2023 14:57:34 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua6' target='_blank'>【个人博客网站】博客美化（六）：添加侧边栏电子钟</a> - Sat, 09 Sep 2023 14:57:34 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua7' target='_blank'>【个人博客网站】博客美化（七）：随机文章显示</a> - Sat, 09 Sep 2023 14:57:34 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua6' target='_blank'>【个人博客网站】博客美化（六）：添加侧边栏电子钟</a> - Sun, 10 Sep 2023 14:27:42 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua7' target='_blank'>【个人博客网站】博客美化（七）：随机文章显示</a> - Sun, 10 Sep 2023 14:27:42 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua8' target='_blank'>【个人博客网站】博客美化（八）：twikoo评论系统以及双评论</a> - Sun, 10 Sep 2023 14:27:42 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua9' target='_blank'>【个人博客网站】博客美化（九）：开启PWA功能</a> - Sun, 10 Sep 2023 14:27:42 GM
+* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Sun, 10 Sep 2023 14:27:42 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

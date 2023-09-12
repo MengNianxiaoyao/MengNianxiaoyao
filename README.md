@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua6' target='_blank'>【个人博客网站】博客美化（六）：添加侧边栏电子钟</a> - Sun, 10 Sep 2023 14:27:42 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua7' target='_blank'>【个人博客网站】博客美化（七）：随机文章显示</a> - Sun, 10 Sep 2023 14:27:42 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua8' target='_blank'>【个人博客网站】博客美化（八）：twikoo评论系统以及双评论</a> - Sun, 10 Sep 2023 14:27:42 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua9' target='_blank'>【个人博客网站】博客美化（九）：开启PWA功能</a> - Sun, 10 Sep 2023 14:27:42 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Sun, 10 Sep 2023 14:27:42 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - Mon, 11 Sep 2023 11:12:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Mon, 11 Sep 2023 11:12:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye3' target='_blank'>【白夜极光】Celestite - 第三方DMM Game Player</a> - Mon, 11 Sep 2023 11:12:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - Mon, 11 Sep 2023 11:12:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开发博客网站（一）</a> - Mon, 11 Sep 2023 11:12:00 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

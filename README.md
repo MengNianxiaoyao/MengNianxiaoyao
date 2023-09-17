@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - Sat, 16 Sep 2023 00:44:16 GM
-* <a href='https://blog.mnxy.eu.org/posts/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Sat, 16 Sep 2023 00:44:16 GM
-* <a href='https://blog.mnxy.eu.org/posts/baiye3' target='_blank'>【白夜极光】Celestite - 第三方DMM Game Player</a> - Sat, 16 Sep 2023 00:44:16 GM
-* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - Sat, 16 Sep 2023 00:44:16 GM
-* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开发博客网站（一）</a> - Sat, 16 Sep 2023 00:44:16 GM
+* <a href='https://blog.mnxy.eu.org/posts/lyq' target='_blank'>小米路由器4A千兆版刷机openwrt(含刷回官方)</a> - Sat, 16 Sep 2023 13:03:07 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua' target='_blank'>【个人博客网站】博客美化——总篇集</a> - Sat, 16 Sep 2023 13:03:07 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua1' target='_blank'>【个人博客网站】博客美化（一）：制作欢迎弹窗</a> - Sat, 16 Sep 2023 13:03:07 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua10' target='_blank'>【个人博客网站】博客美化（十）：彩色图标以及浮动特效</a> - Sat, 16 Sep 2023 13:03:07 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua11' target='_blank'>【个人博客网站】博客美化（十一）：修改全局弹窗样式</a> - Sat, 16 Sep 2023 13:03:07 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

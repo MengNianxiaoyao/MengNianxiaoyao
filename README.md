@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Sun, 17 Sep 2023 23:56:05 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai1' target='_blank'>【Novelai】新版本支持xformers！降低显卡占用黑科技！</a> - Sun, 17 Sep 2023 23:56:05 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai2' target='_blank'>【Novelai】快速提取tag，生成美图！</a> - Sun, 17 Sep 2023 23:56:05 GM
-* <a href='https://blog.mnxy.eu.org/posts/reader' target='_blank'>使用Replit平台免费搭建Web版阅读</a> - Sun, 17 Sep 2023 23:56:05 GM
-* <a href='https://blog.mnxy.eu.org/posts/uptime' target='_blank'>使用Replit平台免费搭建站点监控工具——Uptime-Kuma</a> - Sun, 17 Sep 2023 23:56:05 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua11' target='_blank'>【个人博客网站】博客美化（十一）：修改全局弹窗样式</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/meihua2' target='_blank'>【个人博客网站】博客美化（二）：制作右键菜单</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/meihua3' target='_blank'>【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/meihua4' target='_blank'>【个人博客网站】博客美化（四）：加入看板娘</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/meihua5' target='_blank'>【个人博客网站】博客美化（五）：评论系统以及通知邮件</a> - 
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

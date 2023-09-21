@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua11' target='_blank'>【个人博客网站】博客美化（十一）：修改全局弹窗样式</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/meihua2' target='_blank'>【个人博客网站】博客美化（二）：制作右键菜单</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/meihua3' target='_blank'>【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/meihua4' target='_blank'>【个人博客网站】博客美化（四）：加入看板娘</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/meihua5' target='_blank'>【个人博客网站】博客美化（五）：评论系统以及通知邮件</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/boke2' target='_blank'>【个人博客网站】从零开发博客网站（二）</a> - Wed, 20 Sep 2023 12:34:05 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke3' target='_blank'>【个人博客网站】从零开发博客网站（三）</a> - Wed, 20 Sep 2023 12:34:05 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke4' target='_blank'>【个人博客网站】从零开发博客网站（四）- 使用GitHub Actions自动构建博客</a> - Wed, 20 Sep 2023 12:34:05 GM
+* <a href='https://blog.mnxy.eu.org/posts/domain' target='_blank'>永久免费域名白嫖--eu.org</a> - Wed, 20 Sep 2023 12:34:05 GM
+* <a href='https://blog.mnxy.eu.org/posts/ghproxy' target='_blank'>使用Replit平台免费搭建GitHub反代</a> - Wed, 20 Sep 2023 12:34:05 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

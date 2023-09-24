@@ -16,8 +16,8 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark" width="450"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark" width="450"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark" />
 </div>
 <br>
 

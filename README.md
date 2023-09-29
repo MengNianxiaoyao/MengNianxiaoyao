@@ -12,10 +12,10 @@
 </div>
 <br>
 
-<div align="center"><img src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-contribution-grid-snake.svg" /></div>
-
 <!-- GitHub数据统计 -->
 <div align="center">
+  <img src="https://moe-counter.glitch.me/get/@MengNianxiaoyao" />
+  <img src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-contribution-grid-snake.svg" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark" />
 </div>

@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - Mon, 02 Oct 2023 23:03:22 GM
-* <a href='https://blog.mnxy.eu.org/posts/uptime' target='_blank'>使用Replit平台免费搭建站点监控工具——Uptime-Kuma</a> - Mon, 02 Oct 2023 23:03:22 GM
-* <a href='https://blog.mnxy.eu.org/posts/welcome' target='_blank'>欢迎来到我的博客</a> - Mon, 02 Oct 2023 23:03:22 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua3' target='_blank'>【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程</a> - Mon, 02 Oct 2023 23:03:22 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua4' target='_blank'>【个人博客网站】博客美化（四）：加入看板娘</a> - Mon, 02 Oct 2023 23:03:22 GM
+* <a href='https://blog.mnxy.eu.org/posts/ghproxy' target='_blank'>使用Replit平台免费搭建GitHub反代</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/image' target='_blank'>【个人博客网站】Typora + B站 = 高速图床</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/lyq' target='_blank'>小米路由器4A千兆版刷机openwrt(含刷回官方)</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/meihua' target='_blank'>【个人博客网站】博客美化——总篇集</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/meihua1' target='_blank'>【个人博客网站】博客美化（一）：制作欢迎弹窗</a> - 
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

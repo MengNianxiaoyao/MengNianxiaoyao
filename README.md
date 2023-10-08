@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua9' target='_blank'>【个人博客网站】博客美化（九）：开启PWA功能</a> - Fri, 06 Oct 2023 22:51:14 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Fri, 06 Oct 2023 22:51:14 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai1' target='_blank'>【Novelai】新版本支持xformers！降低显卡占用黑科技！</a> - Fri, 06 Oct 2023 22:51:14 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai2' target='_blank'>【Novelai】快速提取tag，生成美图！</a> - Fri, 06 Oct 2023 22:51:14 GM
-* <a href='https://blog.mnxy.eu.org/posts/ohook' target='_blank'>Ohook——离线永久激活office全家桶</a> - Fri, 06 Oct 2023 22:51:14 GM
+* <a href='https://blog.mnxy.eu.org/posts/source' target='_blank'>网站托管服务——Vercel、Netlify、Zeabur</a> - Sat, 07 Oct 2023 10:57:09 GM
+* <a href='https://blog.mnxy.eu.org/posts/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - Sat, 07 Oct 2023 10:57:09 GM
+* <a href='https://blog.mnxy.eu.org/posts/uptime' target='_blank'>使用Replit平台免费搭建站点监控工具——Uptime-Kuma</a> - Sat, 07 Oct 2023 10:57:09 GM
+* <a href='https://blog.mnxy.eu.org/posts/welcome' target='_blank'>欢迎来到我的博客</a> - Sat, 07 Oct 2023 10:57:09 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - Sat, 07 Oct 2023 10:57:09 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

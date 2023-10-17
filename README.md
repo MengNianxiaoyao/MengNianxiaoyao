@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua3' target='_blank'>【个人博客网站】博客美化（三）：关于Butterfly的导航栏的一些教程</a> - Wed, 11 Oct 2023 13:06:45 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua4' target='_blank'>【个人博客网站】博客美化（四）：加入看板娘</a> - Wed, 11 Oct 2023 13:06:45 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua5' target='_blank'>【个人博客网站】博客美化（五）：评论系统以及通知邮件</a> - Wed, 11 Oct 2023 13:06:45 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua6' target='_blank'>【个人博客网站】博客美化（六）：添加侧边栏电子钟</a> - Wed, 11 Oct 2023 13:06:45 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua7' target='_blank'>【个人博客网站】博客美化（七）：随机文章显示</a> - Wed, 11 Oct 2023 13:06:45 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua9' target='_blank'>【个人博客网站】博客美化（九）：开启PWA功能</a> - Mon, 16 Oct 2023 12:58:23 GM
+* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Mon, 16 Oct 2023 12:58:23 GM
+* <a href='https://blog.mnxy.eu.org/posts/novelai1' target='_blank'>【Novelai】新版本支持xformers！降低显卡占用黑科技！</a> - Mon, 16 Oct 2023 12:58:23 GM
+* <a href='https://blog.mnxy.eu.org/posts/novelai2' target='_blank'>【Novelai】快速提取tag，生成美图！</a> - Mon, 16 Oct 2023 12:58:23 GM
+* <a href='https://blog.mnxy.eu.org/posts/ohook' target='_blank'>Ohook——离线永久激活office全家桶</a> - Mon, 16 Oct 2023 12:58:23 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

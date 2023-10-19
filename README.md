@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua9' target='_blank'>【个人博客网站】博客美化（九）：开启PWA功能</a> - Mon, 16 Oct 2023 12:58:23 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Mon, 16 Oct 2023 12:58:23 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai1' target='_blank'>【Novelai】新版本支持xformers！降低显卡占用黑科技！</a> - Mon, 16 Oct 2023 12:58:23 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai2' target='_blank'>【Novelai】快速提取tag，生成美图！</a> - Mon, 16 Oct 2023 12:58:23 GM
-* <a href='https://blog.mnxy.eu.org/posts/ohook' target='_blank'>Ohook——离线永久激活office全家桶</a> - Mon, 16 Oct 2023 12:58:23 GM
+* <a href='https://blog.mnxy.eu.org/posts/domain' target='_blank'>永久免费域名白嫖--eu.org</a> - Wed, 18 Oct 2023 11:39:22 GM
+* <a href='https://blog.mnxy.eu.org/posts/ghproxy' target='_blank'>使用Replit平台免费搭建GitHub反代</a> - Wed, 18 Oct 2023 11:39:22 GM
+* <a href='https://blog.mnxy.eu.org/posts/image' target='_blank'>【个人博客网站】Typora + B站 = 高速图床</a> - Wed, 18 Oct 2023 11:39:22 GM
+* <a href='https://blog.mnxy.eu.org/posts/lyq' target='_blank'>小米路由器4A千兆版刷机openwrt(含刷回官方)</a> - Wed, 18 Oct 2023 11:39:22 GM
+* <a href='https://blog.mnxy.eu.org/posts/meihua' target='_blank'>【个人博客网站】博客美化——总篇集</a> - Wed, 18 Oct 2023 11:39:22 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

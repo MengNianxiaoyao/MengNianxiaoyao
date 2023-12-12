@@ -16,8 +16,8 @@
 <div align="center">
   <img src="https://moe-counter.glitch.me/get/@MengNianxiaoyao?theme=gelbooru" />
   <img src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-contribution-grid-snake.svg" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark" />
+  <img height="195px" src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-stats.svg" />
+  <img height="195px" src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/top-langs.svg" />
 </div>
 <br>
 

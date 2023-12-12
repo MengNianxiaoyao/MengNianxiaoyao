@@ -1,0 +1,27 @@
+name: Github Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC 21:00 -> CST (China) 5:00
+    - cron: '0 21 * * *'
+
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Github Stats
+        run: |
+          cd ./assets
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark"
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark"
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
+          author_name: github-actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          add: '.'

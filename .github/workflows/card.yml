@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Github Stats
         run: |
-          cd ./assets
+          cd "./assets"
           curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark"
           curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark"
 

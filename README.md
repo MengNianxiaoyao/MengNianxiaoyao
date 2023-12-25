@@ -7,7 +7,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.mnxy.eu.org/"><img src="https://img.shields.io/badge/website-个人博客-blue?style=flat&logo=hexo"></a>&emsp;
+  <a href="https://blog.mnxy.eu.org/"><img src="https://img.shields.io/badge/website-个人博客-5c5c5c?style=flat&logo=github"></a>&emsp;
   <a href="https://space.bilibili.com/381745966"><img src="https://img.shields.io/badge/B站空间-bilibili-ff69b4?style=flat&logo=bilibili"></a>&emsp;
 </div>
 <br>

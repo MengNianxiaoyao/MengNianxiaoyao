@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/reader' target='_blank'>使用Replit平台免费搭建Web版阅读</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/source' target='_blank'>网站托管服务——Vercel、Netlify、Zeabur</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/uptime' target='_blank'>使用Replit平台免费搭建站点监控工具——Uptime-Kuma</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/welcome' target='_blank'>欢迎来到我的博客</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - Wed, 27 Dec 2023 21:01:35 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Wed, 27 Dec 2023 21:01:35 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye3' target='_blank'>【白夜极光】Celestite - 第三方DMM Game Player</a> - Wed, 27 Dec 2023 21:01:35 GM
+* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - Wed, 27 Dec 2023 21:01:35 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开发博客网站（一）</a> - Wed, 27 Dec 2023 21:01:35 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

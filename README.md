@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/reader' target='_blank'>使用Replit平台免费搭建Web版阅读</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/source' target='_blank'>网站托管服务——Vercel、Netlify、Zeabur</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/source2' target='_blank'>Vercel被GFW、Netlify打不开？一招解决！</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/uptime' target='_blank'>使用Replit平台免费搭建站点监控工具——Uptime-Kuma</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - Fri, 05 Jan 2024 21:10:24 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开发博客网站（一）</a> - Fri, 05 Jan 2024 21:10:24 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke2' target='_blank'>【个人博客网站】从零开发博客网站（二）</a> - Fri, 05 Jan 2024 21:10:24 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke3' target='_blank'>【个人博客网站】从零开发博客网站（三）</a> - Fri, 05 Jan 2024 21:10:24 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke4' target='_blank'>【个人博客网站】从零开发博客网站（四）- 使用GitHub Actions自动构建博客</a> - Fri, 05 Jan 2024 21:10:24 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

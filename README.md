@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/meihua7' target='_blank'>【个人博客网站】博客美化（七）：随机文章显示</a> - Mon, 22 Jan 2024 23:22:48 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua8' target='_blank'>【个人博客网站】博客美化（八）：twikoo评论系统以及双评论</a> - Mon, 22 Jan 2024 23:22:48 GM
-* <a href='https://blog.mnxy.eu.org/posts/meihua9' target='_blank'>【个人博客网站】博客美化（九）：开启PWA功能</a> - Mon, 22 Jan 2024 23:22:48 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai' target='_blank'>Novelai双版本部署整合教程</a> - Mon, 22 Jan 2024 23:22:48 GM
-* <a href='https://blog.mnxy.eu.org/posts/novelai1' target='_blank'>【Novelai】新版本支持xformers！降低显卡占用黑科技！</a> - Mon, 22 Jan 2024 23:22:48 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/baiye3' target='_blank'>【白夜极光】Celestite - 第三方DMM Game Player</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开始搭建博客网站（一）：本地配置</a> - 
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

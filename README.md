@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - Sat, 27 Jan 2024 21:08:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Sat, 27 Jan 2024 21:08:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/baiye3' target='_blank'>【白夜极光】Celestite - 第三方DMM Game Player</a> - Sat, 27 Jan 2024 21:08:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - Sat, 27 Jan 2024 21:08:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开始搭建博客网站（一）：本地配置</a> - Sat, 27 Jan 2024 21:08:54 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye1' target='_blank'>【白夜极光】免加速游戏教程，使用直连速度起飞</a> - Sun, 28 Jan 2024 21:11:30 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Sun, 28 Jan 2024 21:11:30 GM
+* <a href='https://blog.mnxy.eu.org/posts/baiye3' target='_blank'>【白夜极光】Celestite - 第三方DMM Game Player</a> - Sun, 28 Jan 2024 21:11:30 GM
+* <a href='https://blog.mnxy.eu.org/posts/baodao' target='_blank'>大学新生报道需要注意的几个坑</a> - Sun, 28 Jan 2024 21:11:30 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke1' target='_blank'>【个人博客网站】从零开始搭建博客网站（一）：本地配置</a> - Sun, 28 Jan 2024 21:11:30 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

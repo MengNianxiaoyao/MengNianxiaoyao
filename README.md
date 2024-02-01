@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke2' target='_blank'>【个人博客网站】从零开始搭建博客网站（二）：博客部署</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke3' target='_blank'>【个人博客网站】从零开始搭建博客网站（三）：安装后台插件</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke4' target='_blank'>【个人博客网站】从零开始搭建博客网站（四）：使用GitHub Actions自动构建博客</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/boke/index' target='_blank'>【个人博客网站】从零开始搭建博客网站（一）：本地配置</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/byjg/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/boke/boke2' target='_blank'>【个人博客网站】从零开始搭建博客网站（二）：博客部署</a> - Wed, 31 Jan 2024 21:11:46 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke/boke3' target='_blank'>【个人博客网站】从零开始搭建博客网站（三）：安装后台插件</a> - Wed, 31 Jan 2024 21:11:46 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke/boke4' target='_blank'>【个人博客网站】从零开始搭建博客网站（四）：使用GitHub Actions自动构建博客</a> - Wed, 31 Jan 2024 21:11:46 GM
+* <a href='https://blog.mnxy.eu.org/posts/boke/index' target='_blank'>【个人博客网站】从零开始搭建博客网站（一）：本地配置</a> - Wed, 31 Jan 2024 21:11:46 GM
+* <a href='https://blog.mnxy.eu.org/posts/byjg/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Wed, 31 Jan 2024 21:11:46 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

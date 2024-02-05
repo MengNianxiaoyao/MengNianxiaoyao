@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke2' target='_blank'>【个人博客网站】从零开始搭建博客网站（二）：博客部署</a> - Sat, 03 Feb 2024 23:21:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke3' target='_blank'>【个人博客网站】从零开始搭建博客网站（三）：安装后台插件</a> - Sat, 03 Feb 2024 23:21:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke4' target='_blank'>【个人博客网站】从零开始搭建博客网站（四）：使用GitHub Actions自动构建博客</a> - Sat, 03 Feb 2024 23:21:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/boke/index' target='_blank'>【个人博客网站】从零开始搭建博客网站（一）：本地配置</a> - Sat, 03 Feb 2024 23:21:54 GM
-* <a href='https://blog.mnxy.eu.org/posts/byjg/baiye2' target='_blank'>【白夜极光】启动器反向代理搭建教程</a> - Sat, 03 Feb 2024 23:21:54 GM
+* <a href='https://blog.mnxy.eu.org/posts/source/index' target='_blank'>网站托管服务——Vercel、Netlify、Zeabur</a> - Sun, 04 Feb 2024 21:13:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/source/source2' target='_blank'>Vercel被GFW、Netlify打不开？一招解决！</a> - Sun, 04 Feb 2024 21:13:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/tech/domain' target='_blank'>永久免费域名白嫖--eu.org</a> - Sun, 04 Feb 2024 21:13:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/tech/ghproxy' target='_blank'>使用Replit平台免费搭建GitHub下载反代</a> - Sun, 04 Feb 2024 21:13:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/tech/index' target='_blank'>【个人博客网站】Typora + B站 = 高速图床</a> - Sun, 04 Feb 2024 21:13:00 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

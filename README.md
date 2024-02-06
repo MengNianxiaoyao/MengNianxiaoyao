@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
-* <a href='https://blog.mnxy.eu.org/posts/source/index' target='_blank'>网站托管服务——Vercel、Netlify、Zeabur</a> - Sun, 04 Feb 2024 21:13:00 GM
-* <a href='https://blog.mnxy.eu.org/posts/source/source2' target='_blank'>Vercel被GFW、Netlify打不开？一招解决！</a> - Sun, 04 Feb 2024 21:13:00 GM
-* <a href='https://blog.mnxy.eu.org/posts/tech/domain' target='_blank'>永久免费域名白嫖--eu.org</a> - Sun, 04 Feb 2024 21:13:00 GM
-* <a href='https://blog.mnxy.eu.org/posts/tech/ghproxy' target='_blank'>使用Replit平台免费搭建GitHub下载反代</a> - Sun, 04 Feb 2024 21:13:00 GM
-* <a href='https://blog.mnxy.eu.org/posts/tech/index' target='_blank'>【个人博客网站】Typora + B站 = 高速图床</a> - Sun, 04 Feb 2024 21:13:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/valaxy/index' target='_blank'>valaxy博客框架配置</a> - Mon, 05 Feb 2024 21:00:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/source/source2' target='_blank'>Vercel被GFW、Netlify打不开？一招解决！</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/tech/ohook' target='_blank'>Ohook——离线永久激活office全家桶</a> - Fri, 29 Sep 2023 16:00:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/tech/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - Fri, 29 Sep 2023 16:00:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/source/index' target='_blank'>网站托管服务——Vercel、Netlify、Zeabur</a> - Wed, 20 Sep 2023 14:30:00 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

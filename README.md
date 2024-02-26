@@ -29,7 +29,7 @@
   
 <!-- START_SECTION:blog -->
 * <a href='https://blog.mnxy.eu.org/posts/tech/lyq' target='_blank'>小米路由器4A千兆版刷机openwrt(含刷回官方)</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/valaxy/index' target='_blank'>valaxy博客框架配置</a> - Mon, 05 Feb 2024 21:00:00 GM
+* <a href='https://blog.mnxy.eu.org/posts/valaxy/config' target='_blank'>valaxy博客框架配置</a> - Mon, 05 Feb 2024 21:00:00 GM
 * <a href='https://blog.mnxy.eu.org/posts/source/source2' target='_blank'>Vercel被GFW、Netlify打不开？一招解决！</a> - 
 * <a href='https://blog.mnxy.eu.org/posts/tech/ohook' target='_blank'>Ohook——离线永久激活office全家桶</a> - Fri, 29 Sep 2023 16:00:00 GM
 * <a href='https://blog.mnxy.eu.org/posts/tech/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - Fri, 29 Sep 2023 16:00:00 GM

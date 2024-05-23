@@ -18,7 +18,7 @@ jobs:
         run: |
           cd ./assets/
           curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=buefy&bg_color=30,e2e2e2,c9d6ff"
-          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark"
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=buefy&bg_color=30,e2e2e2,c9d6ff"
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9

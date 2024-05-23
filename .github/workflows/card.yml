@@ -17,7 +17,7 @@ jobs:
       - name: Github Stats
         run: |
           cd ./assets/
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=dark"
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=MengNianxiaoyao&count_private=true&show_icons=true&theme=buefy&bg_color=30,e2e2e2,c9d6ff"
           curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=MengNianxiaoyao&layout=compact&theme=dark"
 
       - name: Push to GitHub

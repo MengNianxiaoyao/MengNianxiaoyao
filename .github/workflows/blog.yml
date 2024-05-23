@@ -3,7 +3,6 @@ name: Blog Article
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,7 +11,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: anzhiyu-c/social-readme@master
+      - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://blog.mnxy.eu.org/atom.xml
           blog_limit: 5 # blog数量

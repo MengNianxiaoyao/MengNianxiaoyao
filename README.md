@@ -14,7 +14,7 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img src="https://moe-counter.glitch.me/get/@MengNianxiaoyao?theme=gelbooru" />
+<!--   <img src="https://moe-counter.glitch.me/get/@MengNianxiaoyao?theme=gelbooru" /> -->
   <img src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-contribution-grid-snake.svg" />
   <img height="195px" src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-stats.svg" />
   <img height="195px" src="https://cdn.statically.io/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/top-langs.svg" />

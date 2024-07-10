@@ -28,11 +28,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://blog.mnxy.eu.org/posts/boke/boke5' target='_blank'>【个人博客网站】从零开始搭建博客网站（四）：使用Resend配置评论送信</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/seer/faq' target='_blank'>赛尔号Flash页游工具使用答疑</a> - 
 * <a href='https://blog.mnxy.eu.org/posts/seer/tools' target='_blank'>赛尔号Flash页游各种工具下载</a> - Fri, 05 Jul 2024 13:16:00 GM
 * <a href='https://blog.mnxy.eu.org/posts/tech/cdn' target='_blank'>白嫖Cloudflare优选IP给Vercel网站加速</a> - Fri, 05 Jul 2024 10:45:00 GM
 * <a href='https://blog.mnxy.eu.org/posts/source/source2' target='_blank'>Vercel被GFW、Netlify打不开？一招解决！</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/tech/email' target='_blank'>白嫖永久无限可收发邮箱</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/tech/lyq' target='_blank'>小米路由器4A千兆版刷机openwrt(含刷回官方)</a> - 
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

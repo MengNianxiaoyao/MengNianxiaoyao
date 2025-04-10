@@ -29,10 +29,9 @@
   
 <!-- START_SECTION:blog -->
 * <a href='https://blog.mnxy.eu.org/posts/seer/faq' target='_blank'>赛尔号Flash页游工具使用答疑</a> - 
+* <a href='https://blog.mnxy.eu.org/posts/seer/launcher' target='_blank'>赛尔号辅助启动器</a> - 
 * <a href='https://blog.mnxy.eu.org/posts/seer/tools' target='_blank'>赛尔号Flash页游各种工具下载</a> - 
 * <a href='https://blog.mnxy.eu.org/posts/tech/cdn' target='_blank'>白嫖Cloudflare优选IP给Vercel网站加速</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/tech/uptimeapi' target='_blank'>使用Cloudflare Workers搭建UptimeRobot官方API反代</a> - 
-* <a href='https://blog.mnxy.eu.org/posts/boke/boke5' target='_blank'>【个人博客网站】从零开始搭建博客网站（四）：使用Resend配置评论送信</a> - Wed, 10 Jul 2024 07:06:00 GM
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

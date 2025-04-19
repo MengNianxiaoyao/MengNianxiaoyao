@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://demo-blog.mnxy.eu.org/atom.xml
+          blog_rss_link: https://demo-blog.mnxy.eu.org/atom.atom
           blog_limit: 4 # blog数量
           commit_message: Updated Blog Article  # commit说明

@@ -140,7 +140,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="235.1"
+          width="235.08"
           height="8"
           fill="#e34c26"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.1"
+          x="235.08"
           y="0"
-          width="13.6"
+          width="13.62"
           height="8"
           fill="#3178c6"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.7"
+          x="248.70000000000002"
           y="0"
-          width="10.8"
+          width="10.81"
           height="8"
           fill="#41b883"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.5"
+          x="249.51000000000002"
           y="0"
           width="10.36"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.86"
+          x="249.87000000000003"
           y="0"
           width="10.07"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.93"
+          x="249.94000000000003"
           y="0"
           width="10.07"
           height="8"
@@ -201,14 +201,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 94.04%
+        HTML 94.03%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 5.44%
+        TypeScript 5.45%
       </text>
     </g>
   </g><g transform="translate(0, 50)">

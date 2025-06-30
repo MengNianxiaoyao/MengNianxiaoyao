@@ -27,11 +27,11 @@
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://blog.mnxy.eu.org/posts/tech/cf-eo' target='_blank'>CF和EO双CDN部署为网站加速</a> - 2025-06-29
 * <a href='https://blog.mnxy.eu.org/posts/tech/typora' target='_blank'>白嫖永久Typora Windows全版本</a> - 2025-06-24
 * <a href='https://blog.mnxy.eu.org/posts/valaxy/config' target='_blank'>Valaxy博客框架配置</a> - 2025-06-17
 * <a href='https://blog.mnxy.eu.org/posts/tech/cdnip' target='_blank'>自建优选给Vercel网站再加速</a> - 2025-06-13
 * <a href='https://blog.mnxy.eu.org/posts/boke/friends' target='_blank'>【个人博客网站】自动化友链申请、状态检测、信息修改</a> - 2025-05-14
-* <a href='https://blog.mnxy.eu.org/posts/seer/faq' target='_blank'>赛尔号Flash页游工具使用答疑</a> - 2025-04-01
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">

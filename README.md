@@ -21,7 +21,7 @@
 <br>
 
 <table align="center">
-  <td valign="top" width="50%">
+<td valign="top" width="50%">
   
 #### <a href="https://blog.mnxy.eu.org/" target="_blank">博客文章</a>
   
@@ -34,11 +34,11 @@
 <!-- END_SECTION:blog -->
 </td>
 <td valign="top" width="50%">
-  <!-- BiliBili数据 -->
-  <div align="center">
+<!-- BiliBili数据 -->
+<div align="center">
   
 #### B站空间
-    <a href="https://space.bilibili.com/381745966"><img src="https://stats.justsong.cn/api/bilibili/?id=381745966"/></a>
-  </div>
+<a href="https://space.bilibili.com/381745966"><img src="https://stats.justsong.cn/api/bilibili/?id=381745966"/></a>
+</div>
 </td> 
 </table>

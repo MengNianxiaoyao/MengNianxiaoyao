@@ -14,9 +14,9 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img src="https://cdn.jsdmirror.com/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-contribution-grid-snake.svg" />
-  <img height="195px" src="https://cdn.jsdmirror.com/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/github-stats.svg" />
-  <img height="195px" src="https://cdn.jsdmirror.com/gh/MengNianxiaoyao/MengNianxiaoyao@main/assets/top-langs.svg" />
+  <img src="https://raw.githubusercontent.com/MengNianxiaoyao/MengNianxiaoyao/refs/heads/main/assets/github-contribution-grid-snake.svg" />
+  <img height="195px" src="https://raw.githubusercontent.com/MengNianxiaoyao/MengNianxiaoyao/refs/heads/main/assets/github-stats.svg" />
+  <img height="195px" src="https://raw.githubusercontent.com/MengNianxiaoyao/MengNianxiaoyao/refs/heads/main/assets/top-langs.svg" />
 </div>
 <br>
 

@@ -10,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
@@ -20,19 +22,15 @@ jobs:
         id: snake-gif
         with:
           github_user_name: MengNianxiaoyao
-          # gif_out_path: ./assets/github-contribution-grid-snake.gif
-          # svg_out_path: ./assets/github-contribution-grid-snake.svg
           outputs: |
             assets/github-contribution-grid-snake.gif
             assets/github-contribution-grid-snake.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
-          author_name: github-actions
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          add: '.'
+      - name: Commit and push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet || (git commit -m "chore: update readme stats cards" && git push)
